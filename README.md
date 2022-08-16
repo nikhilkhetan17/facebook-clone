@@ -1,4 +1,4 @@
-## ⭐Facebook clone using Tailwind CSS⭐
+## ⭐Facebook Clone Using Tailwind CSS⭐
 
 <br>
 
